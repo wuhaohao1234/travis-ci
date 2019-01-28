@@ -1,0 +1,21 @@
+{
+  "name": "travis-ci",
+  "version": "0.0.1",
+  "description": "travis持续集成",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/travis-ci.git"
+  },
+  "keywords": [],
+  "author": "wuhaohao <1611499758@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/travis-ci/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/travis-ci#readme"
+}
