@@ -4,9 +4,6 @@ node_js:
   - "10.8.0"
 env:
   - EMBER_VERSION=default
-  - EMBER_VERSION=release
-  - EMBER_VERSION=beta
-  - EMBER_VERSION=canary
 before_install:
   - npm install -g typescript
 before_script:
